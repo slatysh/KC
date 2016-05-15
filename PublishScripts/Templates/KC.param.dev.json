@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "kinocriteria"
+  },
+  "hostingPlanName": {
+    "value": "kinocriteriaServicePlan"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "kinocriteriadb"
+  },
+  "serverLocation": {
+    "value": "North Europe"
+  },
+  "administratorLogin": {
+    "value": "kcadmin"
+  },
+  "administratorLoginPassword": {
+    "value": "KC_juice135"
+  },
+  "databaseName": {
+    "value": "kinocriteria_db"
+  }
+}
